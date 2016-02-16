@@ -1,6 +1,6 @@
 # Stack-Flow-Over
 
-Mini stack Overflow clone using Rails, shallow nesting, ReST principles and bcrypt user authorization. 
+Mini stack Overflow clone using Rails, shallow nesting, ReST principles, ActiveRecord, polymorphic associations, and bcrypt user authorization. 
 
 Team members:
 - Sasha Tailor
