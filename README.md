@@ -41,5 +41,5 @@ User Stories:
 - As a User, I want to leave comments on questions or answers.
 - As a User, I want to select the best answer to a question I posted.
 
-![Homepage with list of questions and voting totals](img/screen-shot-1.png)
-![Show question with option to answer, comment, and vote](img/screen-shot-3.png)
+![Homepage with list of questions and voting totals](overflow/img/screen-shot-1.png)
+![Show question with option to answer, comment, and vote](overflow/img/screen-shot-3.png)
