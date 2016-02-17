@@ -9,23 +9,23 @@ Team members:
 
 ####To run app:
 
-1. Clone the repo
+- Clone the repo
 ```bash 
 $ git clone git://github.com/SashaTlr/Stack-Flow-Over.git
 ```
-2. Navigate to local copy in Terminal and run using command
+- Navigate to local copy in Terminal and run using command
 ```bash 
 $ bundle install
 ```
-3. Set up the database by running
+- Set up the database by running
 ```bash 
 $ rake db:migrate
 ```
-4. Run server using command
+- Run server using command
 ```bash
 $ rails s
 ```
-5. Navigate to localhost to view the site.
+- Navigate to localhost to view the site.
 
 Database Schema:
 
