@@ -1,6 +1,6 @@
 # Stack-Flow-Over
 
-Mini Stack Overflow clone using Rails, shallow nesting, ReST principles, ActiveRecord, polymorphic associations, and bcrypt user authorization. 
+Mini Stack Overflow clone using Rails, shallow nesting, ReST principles, ActiveRecord, polymorphic associations, and bcrypt user authorization. App has functionality to post a question, answer, comments on questions, and comments on answers. Users are able to upvote and downvote questions, answers, and comments, and cannot submit multiple votes. Users can register and login via bcrypt gem. 
 
 Team members:
 - Sasha Tailor
