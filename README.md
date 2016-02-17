@@ -1,31 +1,31 @@
 # Stack-Flow-Over
 
-Mini stack Overflow clone using Rails, shallow nesting, ReST principles, ActiveRecord, polymorphic associations, and bcrypt user authorization. 
+Mini Stack Overflow clone using Rails, shallow nesting, ReST principles, ActiveRecord, polymorphic associations, and bcrypt user authorization. 
 
 Team members:
 - Sasha Tailor
 - Natalie Polen
 - Chris Guard
 
-To run the app:
+####To run app:
 
-Clone the repo
+1. Clone the repo
 ```bash 
 $ git clone git://github.com/SashaTlr/Stack-Flow-Over.git
 ```
-Navigate to local copy in Terminal and run in 
+2. Navigate to local copy in Terminal and run using command
 ```bash 
 $ bundle install
 ```
-Set up the database by running
+3. Set up the database by running
 ```bash 
 $ rake db:migrate
 ```
-Run server using command
+4. Run server using command
 ```bash
 $ rails s
 ```
-Navigate to localhost to view the site.
+5. Navigate to localhost to view the site.
 
 Database Schema:
 
